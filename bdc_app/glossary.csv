@@ -1,0 +1,13 @@
+abbr,desc
+GP,Games Played
+G,Goals
+xG,Expected Goals
+xPA,Expected Primary Assists
+xPP,Expected Primary Points
+Shots,Shot Attmpts
+Sh%,Shooting %
+Passes,Pass Attempts
+Pass Comp%,Passing Completion %
+CPOx,Pass Completion % Over Expectation
+Carries,Zone entries made while carrying the puck
+Carry%,Portion of total zone entries that were carried
