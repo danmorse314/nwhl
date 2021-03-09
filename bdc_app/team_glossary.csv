@@ -1,0 +1,9 @@
+abbr,desc
+GF%,Team Goals For as % of total goals scored during games
+xGF%,Team Expected Goals For as % of total Expected Goals during games
+G/60,Goals per 60 minutes
+xG/60,Expected Goals per 60 minutes
+GA/60,Goals Against per 60 minutes
+xGA/60,Expected Goals Against per 60 minutes
+SV%,Save % (all shot attempts)
+GSAx,Goals Saved Above Expectation
